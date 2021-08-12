@@ -3,7 +3,7 @@
 ## Curso Análise e Desenvolvimento de Sistemas, sou desenvolvedor front-end e um eterno estudante!!
 
 - 🌱 Meu framework predileto é o VUE 🌱
-- 🥅 Meta para 2021: Concluir 300 horas de cursos para desenvolvimento para web.
+- 🥅 Meta para 2021: Concluir 300 horas de cursos para desenvolvimento web.
 - ⚡ Fato aleatório: Amo treinar jiujitsu / judo.
 
 ### Entre em contato comigo:
