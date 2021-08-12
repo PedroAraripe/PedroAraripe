@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas 👋
 
-## Curso Análise e Desenvolvimento de Sistemas, sou desenvolvedor front-end e um eterno estudante!!
+## Curso Análise e Desenvolvimento de Sistemas e estudo para me tornar um bom desenvolvedor front-end 🍒
 
 - 🌱 Meu framework predileto é o VUE 🌱
 - 🥅 Meta para 2021: Concluir 300 horas de cursos para desenvolvimento web.
