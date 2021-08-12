@@ -19,6 +19,8 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][timeTest]
 [<img align="left" alt="VUE" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" />][timeTest]
+[<img align="left" alt="Vuetify" width="26px" src="https://styles.redditmedia.com/t5_3nu8v/styles/communityIcon_zuqnf4r5ml111.png" />][timeTest]
+[<img align="left" alt="Bootstrap" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fbootstrap-7&psig=AOvVaw3IaCoecd9XAj57tzxmR-0P&ust=1628869270824000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPijhobpq_ICFQAAAAAdAAAAABAD" />][timeTest]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][timeTest]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][timeTest]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][timeTest]
