@@ -32,8 +32,8 @@
   <summary>:pill: My favorite personal projects  </summary>
 
 <!--START_SECTION:activity-->
-1. 🎮 <a href="https://pedroararipe.github.io/flying-bird/" target="_blank">Flappy Bird Clone</a>
-2. ⚡ <a href="pedroararipe.github.io/workers-list/" target="_blank">Workers List</a>
+1. 🎮 <a href="https://pedroararipe.github.io/flying-bird/" target="_blank" rel="noopener noreferrer">Flappy Bird Clone</a>
+2. ⚡ <a href="pedroararipe.github.io/workers-list/" target="_blank" rel="noopener noreferrer">Workers List</a>
 <!--END_SECTION:activity-->
 
 </details>
