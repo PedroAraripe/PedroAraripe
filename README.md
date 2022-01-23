@@ -37,7 +37,6 @@
 </details>
 
 <br />
-<br />
 
 ### Contact me:
 
