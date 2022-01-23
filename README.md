@@ -1,48 +1,45 @@
-### Olá, me chamo Lucas 👋
+### Hello, i'm  Lucas 👋
 
-## Curso Análise e Desenvolvimento de Sistemas e estudo para me tornar um bom desenvolvedor front-end 🍒
+## I'm currently on my professional degree in Analysis and System Development 🍒
 
-- 🌱 Meu framework predileto é o VUE 🌱
-- 🥅 Meta para 2021: Concluir 300 horas de cursos para desenvolvimento web.
-- ⚡ Fato aleatório: Amo treinar jiujitsu / judo.
+- 🌱 My favorite frameworks are Vue and React 🌱
+- 🥅 Goals for 2022: Learn more about React and Node.
+- ✅ Last year goal: See 300 hours of web development.
 
-### Entre em contato comigo:
+- ⚡ Random fact: I love jiujtsu and judo.
+
+### Contact me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src=" https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio] -->
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src=" https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email] -->
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<a href="mailto:pedro.lucx@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg"></a>]
 <br />
 
 ### Linguagens e ferramentas:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][timeTest]
-[<img align="left" alt="VUE" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" />][timeTest]
-[<img align="left" alt="Vuetify" width="26px" src="https://styles.redditmedia.com/t5_3nu8v/styles/communityIcon_zuqnf4r5ml111.png" />][timeTest]
-[<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/452/bootstrap.png" />][timeTest]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][timeTest]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][timeTest]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][timeTest]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][timeTest]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][timeTest]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][timeTest]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][timeTest]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VUE" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" />
+<img align="left" alt="Vuetify" width="26px" src="https://styles.redditmedia.com/t5_3nu8v/styles/communityIcon_zuqnf4r5ml111.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/452/bootstrap.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
 <details>
-  <summary>:pill: Meus projetos pessoais prediletos no github: </summary>
+  <summary>:pill: My favorite personal projects  </summary>
   
 <!--START_SECTION:activity-->
-1. 🎮 [PedroAraripe/matematicaNoLoL](https://pedroararipe.github.io/matematicaNoLoL/)
-2. ⚡ [PedroAraripe/reaction-time-test/](https://pedroararipe.github.io/reaction-time-test/)
+1. 🎮 [Flappy Bird Clone](https://pedroararipe.github.io/flying-bird/)
+2. ⚡ [Workers List](pedroararipe.github.io/workers-list/)
 <!--END_SECTION:activity-->
 
 </details>
 
-<!-- [portfolio]: https://codeSTACKr.com -->
-[instagram]: https://instagram.com/araripp
 [linkedin]: https://www.linkedin.com/in/pedro-lucas-araripe-silva-61724b20b/
-[matLol]:https://pedroararipe.github.io/matematicaNoLoL/
-[timeTest]:https://pedroararipe.github.io/reaction-time-test/
