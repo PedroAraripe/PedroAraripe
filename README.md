@@ -1,10 +1,11 @@
-## Hello, i'm  Lucas 👋
+## Hi, i'm  Lucas 👋
 
 ### I'm currently on my professional degree in Analysis and System Development 🍒
 
 - 🌱 My favorite frameworks are Vue and React 🌱
-- 🥅 Goals for 2022: Build 5 robust projects with React and / or Node.
-- ✅ Last year goal: See 300 hours of web development.
+- 🥅 Goals for 2022: Build 5 robust projects with React and / or Node
+- ✅ Last year goal: See 300 hours of web development
+- That's my portfolio: pedroararipe.github.io/portfolio/ 
 
 - ⚡ Random fact: I love jiujtsu and judo.
 
