@@ -29,7 +29,7 @@
 
 <br />
 
-<!-- <details>
+<details>
   <summary>:pill: My favorite personal projects  </summary>
 
 <!--START_SECTION:activity-->
@@ -37,7 +37,7 @@
 2. ⚡ <a href="pedroararipe.github.io/workers-list/" target="_blank" rel="noopener noreferrer">Workers List</a>
 <!--END_SECTION:activity-->
 
-</details> -->
+</details>
 
 <br />
 
