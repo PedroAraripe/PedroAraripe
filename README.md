@@ -2,8 +2,8 @@
 
 ### I'm currently on my professional degree in Analysis and System Development 🍒
 
-- 🌱 My favorite frameworks are Vue and React 🌱
-- 🥅 Goals for 2022: Build 5 robust projects with React and / or Node
+- 🌱 My favorite frameworks are Vue and Node 🌱
+- 🥅 Goals for 2022: Build 5 robust projects with Vue and / or Node
 - ✅ Last year goal: See 300 hours of web development
 - My portfolio is <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">here</a>.  
 
