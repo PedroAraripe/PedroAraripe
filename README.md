@@ -40,3 +40,11 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/pedro-lucas-araripe-silva-61724b20b/
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
