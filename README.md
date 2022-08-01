@@ -17,6 +17,10 @@
 @@ text in purple (and bold)@@
 ```
 
+```html
+   <span style="colord:red">Red text with html</span>
+```
+
 <br />
 
 ### Techs:
