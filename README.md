@@ -18,7 +18,7 @@
 ```
 
 ```html
-   <span style="colord:red">Red text with html</span>
+   <span style="color:red">Red text with html</span>
 ```
 
 <br />
