@@ -9,7 +9,7 @@
 
 - ⚡ Random fact: I love jiujtsu and judo.
 
-```diff
+```
 - text in red
 + text in green
 ! text in orange
