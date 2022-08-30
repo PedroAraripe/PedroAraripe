@@ -1,6 +1,8 @@
 ## Hi, i'm  Lucas 👋
 
-### I'm currently on my technologist degree in Analysis and System Development 🍒
+## I'm currently on my technologist degree in Analysis and System Development 🍒
+
+### About me:
 
 - 🌱 My favorite stack is MEVN (MariaDB, Express, Vue and Node)  🌱
 - 🥅 Develop robust applications with Node.js and learn about cloud!
