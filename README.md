@@ -3,7 +3,7 @@
 ### I'm currently on my professional degree in Analysis and System Development 🍒
 
 - 🌱 My favorite stack is MEVN (MariaDB, Express, Vue and Node)  🌱
-- 🥅 Goals for 2022: Build 5 robust projects with Vue and / or Node
+- 🥅 Develop robust applications with Node.js and learn about cloud!
 - ✅ Last year goal: See 300 hours of web development
 - My portfolio is <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">here</a>.  
 
@@ -20,11 +20,7 @@
 
 <br />
 
-<br />
-
-<br />
-
-### Contact me:
+### Let's keep in touch!
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src=" https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio] -->
