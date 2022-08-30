@@ -24,10 +24,10 @@
 
 ### Let's keep in touch!
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+1. [Linkedin][linkedin]
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src=" https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio] -->
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src=" https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email] -->
-<a href="mailto:pedro.lucx@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" width="26px"></a>
+<!-- <a href="mailto:pedro.lucx@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" width="26px"></a> -->
 <br />
 
 [linkedin]: https://www.linkedin.com/in/pedro-lucas-araripe-silva-61724b20b/
