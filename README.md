@@ -16,9 +16,11 @@
 ### Techs:
 
 - Javascript
+- HTML
+- CSS
 - Node.js
 - Vue.js
-- Sql
+- SQL
 
 <br />
 
