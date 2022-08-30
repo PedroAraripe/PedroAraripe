@@ -7,6 +7,7 @@
 - 🌱 My favorite stack is MEVN (MariaDB, Express, Vue and Node)  🌱
 - 🥅 This year goal: Develop robust applications with Node.js and learn about cloud!
 - ✅ Last year goal: See 300 hours of web development
+- ☂️ Next year goal: Get Associate Google Cloud Engineer Certificate and evolve on back-end development / devops  
 - My portfolio is <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">here</a>.  
 
 - ⚡ Random fact: I love jiujtsu and judo.
