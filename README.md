@@ -15,8 +15,8 @@
 
 ### Let's keep in touch!
 
-1. [Linkedin][linkedin]
-2. <a href="mailto:pedro.lucx@gmail.com" subject="First Contact" alt="contact email" target="_blank" rel="noopener noreferrer">Email</a>
+- [Linkedin][linkedin]
+- <a href="mailto:pedro.lucx@gmail.com" subject="First Contact" alt="contact email" target="_blank" rel="noopener noreferrer">Email</a>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src=" https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio] -->
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src=" https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email] -->
 <!-- <a href="mailto:pedro.lucx@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" width="26px"></a> -->
