@@ -22,4 +22,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/pedro-lucas-araripe-silva-61724b20b/
-[linkedin]: pedro.lucx@gmail.com
+[gmail]: pedro.lucx@gmail.com
