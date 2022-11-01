@@ -4,7 +4,7 @@
 
 ### <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">Check my portfolio here!</a>
 
-### About me:
+### About:
 
 - 🌱 Javascript lover and martial arts enthusiast 🌱
 - ✅ Last year goal: See 300 hours of web development
