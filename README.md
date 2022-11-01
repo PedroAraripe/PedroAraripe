@@ -2,7 +2,7 @@
 
 ## I'm currently on my technologist degree in Analysis and System Development 🍒
 
-### <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">Check my portfolio here!</a>.
+### <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">Check my portfolio here!</a>
 
 ### About me:
 
