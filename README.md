@@ -1,4 +1,4 @@
-## Hi, i'm  Lucas 👋
+## Hi, i'm  Lucas Araripe👋
 
 ## I'm currently on my technologist degree in Analysis and System Development 🍒
 
