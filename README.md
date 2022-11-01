@@ -2,10 +2,11 @@
 
 ## I'm currently on my technologist degree in Analysis and System Development 🍒
 
+### <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">Check my portfolio here!</a>.
+
 ### About me:
 
 - 🌱 Javascript lover and martial arts enthusiast 🌱
-- <a href="https://pedroararipe.github.io/portfolio/" alt="personal portfolio" target="_blank" rel="noopener noreferrer">Check my portfolio here!</a>.
 - ✅ Last year goal: See 300 hours of web development
 - 🥅 This year goal: Develop robust applications with Node.js and learn about cloud!
 - ☂️ Next year goal: Get Associate Google Cloud Engineer Certificate and evolve on back-end development / devops  
