@@ -13,7 +13,7 @@
 
 <br />
 
-### Let's keep in touch!
+### Let's keep in touch:
 
 - [Linkedin][linkedin]
 - <a href="mailto:pedro.lucx@gmail.com" subject="First Contact" alt="contact email" target="_blank" rel="noopener noreferrer">Email</a>
