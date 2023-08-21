@@ -30,10 +30,10 @@
 
 📫 Entre em Contato
 - [E-mail](mailto:pedro.lucx@gmail.com)
-- LinkedIn - https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/luraripe-dev/
+- LinkedIn - https://www.linkedin.com/in/luraripe-dev/
 
 🌐 Portfolio e Projetos
-- Portfolio - https://github.com/PedroAraripe/pedroararipe.github.io
+- Portfolio - https://iamararipe.com/
 - Encurtador de Urls -https://github.com/PedroAraripe/url_shortner
 
 🪄🚀 "A vida é como um cubo mágico, cheia de cores e desafios. E eu estou aqui para resolver cada um deles!" 🚀🪄
