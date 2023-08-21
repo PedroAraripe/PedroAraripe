@@ -29,7 +29,7 @@ Quando não estou imerso no mundo do desenvolvimento, você pode me encontrar de
 - Quando não estou codificando, você me encontrará montando e resolvendo cubos mágicos de forma obsessivamente criativa!
 
 📫 Entre em Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/luraripe-dev/)
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/luraripe-dev/))
 - [E-mail](mailto:pedro.lucx@gmail.com)
 
 🌐 Portfolio e Projetos
