@@ -2,7 +2,6 @@
 ## Engenheiro de Software 🪄
 
 🎓 Concluindo graduação em Análise e Desenvolvimento de Sistemas
-
 🔜 Futuro aluno da pós-graduação em Engenharia de Software
 
 👨‍💻 Experiência
