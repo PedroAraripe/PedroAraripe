@@ -29,11 +29,11 @@
 - Quando não estou codificando, você me encontrará montando e resolvendo cubos mágicos de forma obsessivamente criativa!
 
 📫 Entre em Contato
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/luraripe-dev/))
+- LinkedIn - https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/luraripe-dev/
 - [E-mail](mailto:pedro.lucx@gmail.com)
 
 🌐 Portfolio e Projetos
 - Portfolio - https://github.com/PedroAraripe/pedroararipe.github.io
-- Encurtador de Urls - https://github.com/seu-usuario/projeto-2](https://github.com/PedroAraripe/url_shortner
+- Encurtador de Urls -https://github.com/PedroAraripe/url_shortner
 
 🪄🚀 "A vida é como um cubo mágico, cheia de cores e desafios. E eu estou aqui para resolver cada um deles!" 🚀🪄
