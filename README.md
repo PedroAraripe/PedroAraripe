@@ -1,7 +1,7 @@
 # Oi, eu sou o Lucas Araripe
 ## Engenheiro de Software 
 
-🎓 Concluindo graduação em Análise e Desenvolvimento de Sistemas<br>
+🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>
 
 👨‍💻 Experiência
 - Engenheiro de Software desde 2021
